@@ -8,4 +8,4 @@
 
 4. Live Recognition ( Run Recognizer.py )
 
-For face Recognized door unlock system in Rsapberry PI remove '#' from the some specific comments.
+For face Recognized door unlock system in Raspberry PI remove '#' from the some specific comments.
